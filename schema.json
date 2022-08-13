@@ -1,0 +1,22 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "employee_id",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "name",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "attendance",
+    "type": "BOOL"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "attendance_date",
+    "type": "date"
+  }
+]
